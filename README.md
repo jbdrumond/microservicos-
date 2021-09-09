@@ -28,6 +28,7 @@ entregas e agregam mais valor ao produto pois também possibilita que cada segme
 - spring-cloud
 - Elasticsearch
 - Eureka-server
+- Docker
 - Gradle
 
 
